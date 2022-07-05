@@ -126,7 +126,7 @@ Files relevant for this exercise are:
 ├── cloudfront.yml      # Creates a Cloudfront Distribution that will connect to the existing ^ bucket.
 ├── error.html
 ├── index.html  
-# Four Jobs: create_and_deploy_front_end, get_last_deployment_id, promote_to_production, and clean_up_old_front_end
+# Four Jobs: create_and_deploy_front_end, get_last_deployment_id, promote_to_production, and clean_up_old_front_end Gerald
 └── .circleci
     └── config.yml
 ```
